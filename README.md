@@ -18,5 +18,5 @@ The disruption in stocks can be tested using a wide range of algorithms. <br>
 
 ---
 **Team Members:** Hetvi Desai, Shreya Arora, Dhruv Solanki, Jatan Sahu <br>
-**Project Mentor:** Prof. Bhaskar Chaudhury, Associate Dean (Academic Programs), DA-IICT, Gandhinagar 
+**Project Mentor:** Prof. Bhaskar Chaudhury, Dean (Students), DA-IICT, Gandhinagar 
 
